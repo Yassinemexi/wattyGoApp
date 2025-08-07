@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "WattyGo",
+    "slug": "WattyGo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/background/backgroundImage.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "hideExponentSplash": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/background/backgroundImage.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.yassine.meksi.WattyGo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-mail-composer",
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f6ee8820-ed7d-48f8-8fed-fbad2fb32039"
+      }
+    }
+  }
+}

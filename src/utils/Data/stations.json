@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "TotalEnergies Mornag",
+    "distance": "1.9 km",
+    "availability": "1/1 Available · Closes 10 pm",
+    "type": "CCS · Fast",
+    "ports": "1 Port",
+    "latitude": 36.81,
+    "longitude": 10.19,
+    "image": "TotalEnergies_Mornag.png"
+  },
+  {
+    "id": 2,
+    "name": "Nexus Charging Station",
+    "distance": "3.5 km",
+    "availability": "3/4 Available · 24 hrs",
+    "type": "CCS · Fast",
+    "ports": "4 Ports",
+    "latitude": 36.82,
+    "longitude": 10.18,
+    "image": "Nexus_Charging_Station.png"
+  },
+  {
+    "id": 3,
+    "name": "Zeon Charging Station",
+    "distance": "4.5 km",
+    "availability": "Ports Busy · 24 hrs",
+    "type": "CCS · Fast",
+    "ports": "2 Ports",
+    "latitude": 36.83,
+    "longitude": 10.17,
+    "image": "Zeon_Charging_Station.png"
+  }
+]
