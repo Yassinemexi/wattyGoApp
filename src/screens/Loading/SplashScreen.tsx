@@ -15,7 +15,7 @@ const SplashScreen = () => {
   return (
     <View style={styles.container}>
       <ImageBackground 
-        source={require('../../../assets/images/background/BackgroundImage.png')}
+        source={require('../../../assets/images/background/backgroundImage.png')}
         style={styles.backgroundImage}
         imageStyle={[styles.imageStyle, { left: -width * 0.2 }]} // Décalage à gauche
       >

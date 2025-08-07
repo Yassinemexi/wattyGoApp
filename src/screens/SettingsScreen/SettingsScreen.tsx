@@ -162,7 +162,7 @@ const SettingsScreen: React.FC = () => {
 
   return (
     <ImageBackground
-      source={require('../../../assets/images/background/BackgroundImage.png')}
+      source={require('../../../assets/images/background/backgroundImage.png')}
       style={styles.background}
     >
       <View style={styles.overlay} />

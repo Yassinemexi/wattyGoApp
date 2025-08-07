@@ -67,7 +67,7 @@ const StationDetailsScreen: React.FC<StationDetailsProps> = ({ route }) => {
   
   // Données de démonstration
   const stationImages = [
-    station.imageSource || require('../../../assets/images/background/BackgroundImage.png'),
+    station.imageSource || require('../../../assets/images/background/backgroundImage.png'),
     require('../../../assets/images/stations/TotalEnergiesMornag.png'),
     require('../../../assets/images/stations/NexusChargingStation.png'),
   ];

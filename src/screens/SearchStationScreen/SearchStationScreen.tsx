@@ -45,7 +45,7 @@ const BOTTOM_BAR_HEIGHT = 70;
 const TotalEnergiesImg = require('../../../assets/images/stations/TotalEnergiesMornag.png');
 const NexusImg = require('../../../assets/images/stations/NexusChargingStation.png');
 const ZeonImg = require('../../../assets/images/stations/ZeonChargingStation.png');
-const DefaultImg = require('../../../assets/images/background/BackgroundImage.png');
+const DefaultImg = require('../../../assets/images/background/backgroundImage.png');
 
 const stationImages: Record<string, any> = {
   'TotalEnergies_Mornag.png': TotalEnergiesImg,

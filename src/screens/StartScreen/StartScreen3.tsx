@@ -21,7 +21,7 @@ const StartScreen3 = () => {
 
   return (
     <ImageBackground 
-      source={require('../../../assets/images/background/BackgroundImage.png')}
+      source={require('../../../assets/images/background/backgroundImage.png')}
       style={styles.backgroundImage}
       imageStyle={styles.imageStyle}
     >
@@ -125,7 +125,7 @@ orderButton: {
   alignSelf: 'center',
   alignItems: 'center',
   borderWidth: 1,
-  borderColor: '#FFFFFF', // ✅ bordure blanche
+  borderColor: '#FFFFFF', // bordure blanche
 },
 
 orderButtonText: {
