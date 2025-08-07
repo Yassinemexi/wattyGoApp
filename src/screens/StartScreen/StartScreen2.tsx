@@ -50,7 +50,7 @@ const StartScreen2 = () => {
 
   return (
     <ImageBackground 
-      source={require('../../../assets/images/background/backgroundImage.png')}
+      source={require('../../../assets/images/background/BackgroundImage.png')}
       style={styles.backgroundImage}
       imageStyle={styles.imageStyle}
     >

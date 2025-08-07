@@ -40,7 +40,7 @@ const ForgetPasswordScreen1 = () => {
 
   return (
     <ImageBackground
-      source={require('../../../assets/images/background/backgroundImage.png')}
+      source={require('../../../assets/images/background/BackgroundImage.png')}
       style={styles.background}
     >
       <KeyboardAvoidingView
